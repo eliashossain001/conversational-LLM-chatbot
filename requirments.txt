@@ -1,0 +1,25 @@
+ openai==1.59.7
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+
+# Vector database
+chromadb
+
+# Web framework
+streamlit
+
+# Crew AI
+crewai
+
+# Google API
+google-api-python-client
+
+# Environment variables
+python-dotenv
+
+# Additional utilities
+numpy
+pandas
+tiktoken
